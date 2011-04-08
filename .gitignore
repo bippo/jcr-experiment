@@ -1,0 +1,8 @@
+.classpath
+.project
+.settings
+.gradle
+repository
+derby.log
+target
+repository.xml
